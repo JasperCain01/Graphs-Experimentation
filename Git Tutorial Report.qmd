@@ -1,6 +1,6 @@
 ---
 title: "My First Report"
-author: "Jasper"
+
 format: html
 editor: visual
 embed-resources: true

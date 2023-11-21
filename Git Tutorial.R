@@ -49,3 +49,4 @@ usethis::pr_init("new_work")
 
 #individual new files can be staged with code or by ticking box in the RStudio Git pane
 gert::git_add("Git Tutorial Report.qmd")
+gert::git_commit_all(message = "Git Tutorial")
