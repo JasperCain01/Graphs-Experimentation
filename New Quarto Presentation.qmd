@@ -2,6 +2,7 @@
 title: "New Quarto Presentation"
 format: revealjs
 editor: visual
+author: "Person A"
 embed-resources: true
 ---
 
